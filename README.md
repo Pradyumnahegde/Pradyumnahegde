@@ -1,10 +1,10 @@
  # 👋 Hi, I’m Pradyumna Hegde.
 
-- 👀 I’m interested in fullstack, Open source development, python-django, cloud, devops.
+- 👀 I’m interested in Open source, Fullstack, MERN stack development and Devops.
 
-- 🌱 I’m currently learning Fullstack, Open source development and discovering google cloud.
+- 🌱 I’m currently learning MERN stack, Open source development and discovering cloud.
 
-- 🔭 I’m currently working on **Full stack project and Contributing to Open source**
+- 🔭 I’m currently working on **Full stack projects and Contributing to Open source**.
   
 - 📫 How to reach me **pradyumna.ph1@gmail.com**
 
