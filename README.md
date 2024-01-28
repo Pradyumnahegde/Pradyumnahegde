@@ -2,7 +2,7 @@
 
 🚀 Full-Stack Developer with a strong focus on the MERN stack.\
 💻 Passionate about contributing to open source and building projects.\
-💼 Open to collaboration, project development, and new opportunities.\
+💼 Open to collaboration, new opportunities and building projects.\
 📫 Reach out to me via email at pradyumna.ph1@gmail.com.
 
 ## 🌐 Let's Connect 
