@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+- I build fullstack web apps that are fast, solve real problems and enjoy building projects.
+- I work with tools like Next.js, React, TypeScript, Node, Express, PostgreSQL, and AWS.
+
+
 <!--
 **Pradyumnahegde/Pradyumnahegde** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
